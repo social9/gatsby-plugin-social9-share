@@ -77,7 +77,6 @@ module.exports = {
 
 ## Description
 Social9 social sharing plugin provides you beautiful buttons, sharing capabilities, and analytics. (20+ buttons- Whatsapp, Facebook, Twitter, LinkedIn, Reddit, and many more...)
-![enter image description here](https://lh4.googleusercontent.com/6UXvYFV1U-aEoHC6E8QBR2j2lO6f_gZD-y9PYi4hhzIU8RpDlHZEyJ18ymxbL1HvKoulvLnK_CBZ_qKX_HYWEB4gWjUacgFi8BwS4Qc6)
 
 #### SOCIAL SHARING
 

@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-social9-socialshare",
   "description": "Social9 social sharing plugin provides you beautiful buttons, sharing capabilities, and analytics. (20+ buttons- Whatsapp, Facebook, Twitter, LinkedIn, Reddit, and many more...)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Social9 Team",
   "bugs": {
     "url": "https://github.com/social9/bug-tracker/issues"
@@ -10,7 +10,7 @@
     "@babel/runtime": "^7.10.3",
     "minimatch": "3.0.4"
   },
-  "homepage": "https://docs.social9.com/install/gatsby/",
+  "homepage": "https://social9.com/",
   "keywords": [
     "gatsby",
 	"gatsby-plugin",
@@ -31,12 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby.git",
-    "directory": "packages/gatsby-plugin-social9-socialshare"
+    "url": "https://github.com/social9/gatsby-plugin-social9-share"
   },
   "scripts": {
     "build": "babel src --out-dir . --ignore \"**/__tests__\"",
-    "prepare": "cross-env NODE_ENV=production npm run build",
     "watch": "babel -w src --out-dir . --ignore \"**/__tests__\""
   },
   "engines": {
