@@ -34,8 +34,8 @@ See below for the complete list of [optional fields](#optional-fields).
 ## Optional Fields
 
 -  `content`: string, //content key for identify social share account
--  `async`: boolean
--  `defer`: boolean
+-  `async`: boolean, //true/false (optional)
+-  `defer`: boolean, //true/false (optional)
 
 ## code with full options
 ```javascript
@@ -81,7 +81,7 @@ Social9 social sharing plugin provides you beautiful buttons, sharing capabiliti
 #### SOCIAL SHARING
 
 Quickly add beautiful and highly customizable social share buttons with simples installation steps.
-![enter image description here](https://lh5.googleusercontent.com/WkYkll8WaAmDTIbFCvmG1g3vQ7wK-1mA57Shc_p-OwSLgW4aZEhZtE7xOYcy9dCj1cqFY8RR5I_LKlOiAin5Kgi5Xl4q3BrfVH7CIuUR0s5dguZqHiArT3s-OFqZqw4gmlIN_5_r)
+![Social9 SocialShare](https://lh5.googleusercontent.com/WkYkll8WaAmDTIbFCvmG1g3vQ7wK-1mA57Shc_p-OwSLgW4aZEhZtE7xOYcy9dCj1cqFY8RR5I_LKlOiAin5Kgi5Xl4q3BrfVH7CIuUR0s5dguZqHiArT3s-OFqZqw4gmlIN_5_r)
 
 Social9 is the leading social growth service provider that helps you drive more traffic and increase engagement by leveraging the power of social media. Read more about us here.
 
@@ -159,4 +159,3 @@ We understand all sites have their own style so we made it easy to customize you
 As you’d expect, Social9 is a 100% mobile responsive social sharing plugin, so no matter the screen size, your social sharing tools will look great on all devices (mobile, tablet, laptop, and desktop). Super-lightweight SVG icons load fast and look crisp at any size.
 
 We created Social9 to give everyone access to all the powerful tools they would need to have a successful social media strategy. Take a look at the screenshots below to see why designers, developers, bloggers, small business owners, and more choose Social9 – Social Sharing plugin!
-
