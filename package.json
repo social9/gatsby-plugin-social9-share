@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-social9-socialshare",
   "description": "Social9 social sharing plugin provides you beautiful buttons, sharing capabilities, and analytics. (20+ buttons- Whatsapp, Facebook, Twitter, LinkedIn, Reddit, and many more...)",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "Social9 Team",
   "bugs": {
     "url": "https://github.com/social9/bug-tracker/issues"
